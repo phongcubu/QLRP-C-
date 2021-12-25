@@ -1,0 +1,5 @@
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Release\QLRCP.Fnhanvien.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Release\QLRCP.NhanVien.FQLPhim.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Release\QLRCP.Properties.Resources.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Release\QLRCP.csproj.GenerateResource.cache
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Release\QLRCP.csproj.CoreCompileInputs.cache

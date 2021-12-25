@@ -1,0 +1,66 @@
+D:\Quanlyraphieuphim\QLRCP\QLRCP\bin\Debug\QLRCP.exe
+D:\Quanlyraphieuphim\QLRCP\QLRCP\bin\Debug\QLRCP.pdb
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.csprojAssemblyReference.cache
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.Properties.Resources.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.GenerateResource.cache
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.CoreCompileInputs.cache
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.exe
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.pdb
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLPhim.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLPChieu.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLNCC.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLKhachHang.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLNhanViencs.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.HeThong.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLHoaDon.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.DangNhap.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.HeThongNV.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FXemPhim.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FSuatChieu.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FHoaDon.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FDatve.resources
+D:\Quanlyraphieuphim\QLRCP\QLRCP\obj\Debug\QLRCP.QLSChieu.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\bin\Debug\QLRCP.exe
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\bin\Debug\QLRCP.pdb
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.AssemblyReference.cache
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.DangNhap.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.HeThong.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FDatve.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FHoaDon.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FSuatChieu.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FXemPhim.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.HeThongNV.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.Properties.Resources.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLHoaDon.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLKhachHang.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLSChieu.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLNCC.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLNhanViencs.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLPChieu.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.QLPhim.resources
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.GenerateResource.cache
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.CoreCompileInputs.cache
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.exe
+C:\Users\Khong Trung Thanh\Desktop\QLRCP\QLRCP\obj\Debug\QLRCP.pdb
+D:\C#\QLRCP\QLRCP\bin\Debug\QLRCP.exe
+D:\C#\QLRCP\QLRCP\bin\Debug\QLRCP.pdb
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.AssemblyReference.cache
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.DangNhap.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.HeThong.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FDatve.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FHoaDon.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FSuatChieu.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.FXemPhim.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.NhanVien.HeThongNV.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.Properties.Resources.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLHoaDon.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLKhachHang.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLSChieu.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLNCC.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLNhanViencs.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLPChieu.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.QLPhim.resources
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.GenerateResource.cache
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.csproj.CoreCompileInputs.cache
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.exe
+D:\C#\QLRCP\QLRCP\obj\Debug\QLRCP.pdb
